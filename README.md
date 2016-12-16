@@ -1,10 +1,10 @@
 # ann-spam-det
 Spam/Ham detection using artificial neural networks
 
-#Libraries
+##Libraries
 JSOUP, Colt(Linear algebra), PennTreeBank Tokenizer
 
-#Architecture of Neural Network
+##Architecture of Neural Network
 - Type of Neural Network – Feed Forward
 - Algorithm used during learning process – Back
 Propagation
@@ -17,7 +17,7 @@ Propagation
 - Learning rate – 0.3(variable)
 
 
-Results(where each mail is represented as a vector):
+##Results(where each mail is represented as a vector):
 
 
 <img src="https://cloud.githubusercontent.com/assets/21965720/21247974/a39eae44-c301-11e6-9ce9-d7beef0ade27.png" align="left" width="600">
