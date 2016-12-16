@@ -2,7 +2,7 @@
 Spam/Ham detection using artificial neural networks
 
 #Libraries
-JSOUP, Colt(Linear algebra),PennTreeBank Tokenizer
+JSOUP, Colt(Linear algebra), PennTreeBank Tokenizer
 
 #Architecture of Neural Network
 - Type of Neural Network – Feed Forward
