@@ -18,6 +18,8 @@ Propagation
 
 
 Results(where each mail is represented as a vector):
+
+
 <img src="https://cloud.githubusercontent.com/assets/21965720/21247974/a39eae44-c301-11e6-9ce9-d7beef0ade27.png" align="left" width="400">
-<img src="https://cloud.githubusercontent.com/assets/21965720/21247981/aecc1c7a-c301-11e6-85f0-7730eeafc3bd.png" align="left"
+<img src="https://cloud.githubusercontent.com/assets/21965720/21247981/aecc1c7a-c301-11e6-85f0-7730eeafc3bd.png"
 width="400">
